@@ -1,9 +1,19 @@
-# Laboratory-of-Machine-Learning-
-Collection of notebooks developed for the Laboratory of Machine Learning course, covering supervised and unsupervised ML, neural networks, deep learning models, and hands‑on experiments completed during class assignments
+## Machine Learning Labs — Università di Pavia
 
-## 1. Pet Classification with Convolutional Neural Networks
-A simple binary image classification task using Convolutional Neural Networks to distinguish between cats and dogs. Trained on the Oxford Pet Dataset (7,349 images), this project demonstrates core deep learning techniques such as convolutional layers, data augmentation, and model evaluation.
-## 2. Image Segmentation  with Convolutional Neural Networks
-This project explores semantic image segmentation, a core task in computer vision where each pixel in an image is assigned a class label. The project demonstrates key deep learning concepts including feature extraction, upsampling, and mask generation, and evaluates performance using metrics such as accuracy and IoU.
-## 3. Handwritten Text Recognition using Connectionist Temporal Classification (CTC)
-This project uses a CNN–RNN architecture trained with CTC loss to recognize text-line images from the IAM dataset. Preprocessing includes grayscale conversion, resizing, and normalization to prepare images for sequential modeling.
+This repository contains 12 machine learning labs completed during the 2025 Machine Learning course.  
+Topics include computer vision, audio processing, generative models, and diffusion models.
+
+## Labs Overview
+
+1. Lab 1 — Course Introduction  
+2. Lab 2 — Pet Classification  
+3. Lab 3 — Introduction to Torchaudio  
+4. Lab 4 — Audio Classification  
+5. Lab 5 — Pet Segmentation  
+6. Lab 6 — Command Classification  
+7. Lab 7 — Handwritten Text Recognition (CTC)  
+8. Lab 8 — GANs & Denoising Autoencoders  
+9. Lab 9 — Autoencoders & GANs  
+10. Lab 10 — VAE & Face Generation  
+11. Lab 11 — Audio Generation with GANs  
+12. Lab 12 — Diffusion Models
